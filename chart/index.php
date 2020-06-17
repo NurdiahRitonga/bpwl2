@@ -90,7 +90,7 @@ var theme = {
 // tui.chart.registerTheme('myTheme', theme);
 // options.theme = 'myTheme';
 
-tui.chart.lineChart(container, data, options);
+tui.chart.columnChart(container, data, options); //alhamdulillah, hampir selesai tugasnya:)
 </script>
 
 <!--For tutorial page-->
